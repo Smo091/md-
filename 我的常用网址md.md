@@ -19,6 +19,7 @@ tags:
 - [卡饭论坛](http://www.kafan.cn/)
 - [stackoverflow](https://stackoverflow.com/)
 - [divcss布局教程学习与css资源分享平台](http://www.divcss5.com/css-jiaocheng/)
+- [bootstrap模态框插件](http://www.runoob.com/bootstrap/bootstrap-modal-plugin.html)
 
 ## ps学习网站
 - [Ps联盟](http://www.68ps.com/)
